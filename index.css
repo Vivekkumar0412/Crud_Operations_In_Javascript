@@ -36,7 +36,7 @@ table{
     text-align: center;
     cursor: pointer;
     border-radius: 10px;
-    transition: 0.5s;
+    transition: 0.7s;
 
 }#showTable:hover{
     background-color: white;
