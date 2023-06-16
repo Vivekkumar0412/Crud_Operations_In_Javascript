@@ -7,10 +7,10 @@ let productArray = [
 
 // Function that will remove the item from the table
 
-let removeFromTableFunction=(namee)=>{
+let removeFromTableFunction=(n)=>{
     // console.log(namee);
     let elem = productArray.findIndex((e)=>{
-        return namee == e.name;
+        return n == e.name;
     });
     // console.log(elem);
 
